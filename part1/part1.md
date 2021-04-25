@@ -1,4 +1,4 @@
-### Part 1A ###
+## Part 1A  
 1. values added:  20
 2. final result:  20
 3. values added:  20
@@ -6,7 +6,7 @@
 5. Line 9 causes a TypeError because result is a constant, but line 9 is attempting to reassign/modify its value
 6. After commenting out line 9, line 13 causes a ReferenceError because result is only defined within the sumValues code block since const is used.
 
-### Part 1B ###
+## Part 1B  
 1. 3 is printed because i is defined using var so it is a global variable, meaning it exists everywhere
 2. 150 is printed because it is also a global variable (exists beyond the for loop block) and 150 is the last value that it was assigned to
 3. 150 is printed because it is also a global variable (exists within and outside of the for loop) and 150 is the last variable it was assigned to
