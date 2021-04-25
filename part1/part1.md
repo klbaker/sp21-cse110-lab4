@@ -46,7 +46,7 @@
 17. The function called in line 13 returns the array \[2, 4, 6\] because the for loop iterates 3 times (0, 1, 2) each time line 4 doubles that value at that index in array and pushes it into newArr.
 18. JS file
 19. Output:
-    > 1
-    > 4
-    > 3
+    > 1  
+    > 4  
+    > 3  
     > 2
